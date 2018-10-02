@@ -1,9 +1,9 @@
 <h1 align="middle">Space collector</h1>
 
-<i>Game made for science event for PlanetaRobotów.</i>
-
 The goal of this game is to collect blue, shiny crystals that can be obtained from shiny asteroids.
 At the same time player has to avoid other asteroids and meteorites as well as fight competing space ships!
+
+<i>Game made for science event for PlanetaRobotów.</i>
 
 <h3>Instructions:</h3>
 

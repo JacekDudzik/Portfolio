@@ -13,8 +13,8 @@ Shoot/Accept:			space
 <h3>Screenshots:</h3>
 
 <p align="middle">
-  <img src="/SpaceCollector/Screenshots/Screenshot_01.png" width="250" />
-  <img src="/SpaceCollector/Screenshots/Screenshot_02.png" width="250" /> 
-  <img src="/SpaceCollector/Screenshots/Screenshot_03.png" width="250" />
-  <img src="/SpaceCollector/Screenshots/Screenshot_04.png" width="250" />
+  <img src="/SpaceCollector/Screenshots/Screenshot_01.png" width="300" />
+  <img src="/SpaceCollector/Screenshots/Screenshot_02.png" width="300" /> 
+  <img src="/SpaceCollector/Screenshots/Screenshot_03.png" width="300" />
+  <img src="/SpaceCollector/Screenshots/Screenshot_04.png" width="300" />
 </p>

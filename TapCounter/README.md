@@ -1,2 +1,5 @@
-Test text. Game description here.
-![alt text](https://github.com/JacekDudzik/Portfolio/blob/master/TapCounter/Screenshots/Screenshot_1.png)
+<p align="middle">
+  <img src="/Screenshot_1.png" width="100" />
+  <img src="/Screenshot_2.png" width="100" /> 
+  <img src="/Screenshot_3.png" width="100" />
+</p>

@@ -1,18 +1,20 @@
-<h1 align="middle">Tap counter game</h1>
+<h1 align="middle">Space collector</h1>
 
-The goal of this game is to tap the screen as many times as possible in 10 seconds.
-Both highscore and best session score are saved and displayed in highscores menu.
+The goal of this game is to collect blue, shiny crystals that can be obtained from shiny asteroids.
+At the same time player has to avoid other asteroids and meteorites as well as fight competing space ships!
+
+<i>Game made for science event for PlanetaRobotÃ³w.</i>
+
+<h3>Instructions:</h3>
+
+Flight left/right:	left/right arrow</br>
+Shoot/Accept:			space
 
 <h3>Screenshots:</h3>
 
 <p align="middle">
-  <img src="/TapCounter/Screenshots/Screenshot_1.png" width="250" />
-  <img src="/TapCounter/Screenshots/Screenshot_2.png" width="250" /> 
-  <img src="/TapCounter/Screenshots/Screenshot_3.png" width="250" />
+  <img src="/SpaceCollector/Screenshots/Screenshot_01.png" width="300" />
+  <img src="/SpaceCollector/Screenshots/Screenshot_02.png" width="300" /> 
+  <img src="/SpaceCollector/Screenshots/Screenshot_03.png" width="300" />
+  <img src="/SpaceCollector/Screenshots/Screenshot_04.png" width="300" />
 </p>
-
-
-Game made for science event for PlanetaRobotów	
-
-Flight left/right:	left/right arrow
-Shoot/Accept:			space

@@ -1,5 +1,5 @@
 <p align="middle">
-<size=50>Title here</size>
+# Title here
 </p>
 <p align="middle">
   <img src="/TapCounter/Screenshots/Screenshot_1.png" width="250" />
